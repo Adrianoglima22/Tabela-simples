@@ -1,0 +1,23 @@
+.tabela-moda {
+    background-color: #424250;
+    color: aliceblue;
+}
+
+.tabela-casa {
+    background-color: #424250;
+    color: aliceblue;
+}
+
+.cabecalho-casa {
+    background-color: #00c4b4;
+}
+
+.cabecalho-moda {
+    background-color: #bb86fc;
+}
+
+table,th,td {
+    border-collapse: collapse;
+    border: solid 1px #ffffff;
+    padding: 5px 5px
+}
